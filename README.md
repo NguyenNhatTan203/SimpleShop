@@ -28,7 +28,7 @@ git clone https://github.com/NguyenNhatTan203/SimpleShop
 Navigate to the project directory
 
 ```
-cd webfashion
+cd WebFashion
 ```
 Install the dependencies
 ```
