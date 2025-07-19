@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Hoodie",
+      "price": "1.300.000đ",
+      "url": "./images/product-1.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Dress",
+      "price": "2.100.000đ",
+      "url": "./images/product-2.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "Apple Watch",
+      "price": "9.100.000đ",
+      "url": "./images/product-3.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 4,
+      "title": "Glasses",
+      "price": "1.100.000đ",
+      "url": "./images/product-4.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 5,
+      "title": "Floral shirt",
+      "price": "1.300.000đ",
+      "url": "./images/product-5.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "Wried Headphone",
+      "price": "50",
+      "url": "./images/product-6.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Bags",
+      "price": "5.300.000đ",
+      "url": "./images/product-7.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 8,
+      "title": "Sports shoes",
+      "price": "3.100.000đ",
+      "url": "./images/product-8.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "High heels",
+      "price": "3.300.000đ",
+      "url": "./images/product-9.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Mouse",
+      "price": "3.100.000đ",
+      "url": "./images/product-10.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Airpod",
+      "price": "7.100.000đ",
+      "url": "./images/product-11.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Apple Watch",
+      "price": "5.100.000đ",
+      "url": "./images/product-12.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Macbook",
+      "price": "9.300.000đ",
+      "url": "./images/product-13.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "title": "Apple Watch",
+      "price": "1.300.000đ",
+      "url": "./images/product-14.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "GampPad",
+      "price": "2.100.000đ",
+      "url": "./images/product-15.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 16,
+      "title": "Iphone X",
+      "price": "3.100.000đ",
+      "url": "./images/product-16.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 17,
+      "title": "Black Suit",
+      "price": "3.100.000đ",
+      "url": "./images/product-17.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 18,
+      "title": "ROLEX",
+      "price": "3.100.000đ",
+      "url": "./images/product-18.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 19,
+      "title": "Nike Jordan 1",
+      "price": "3.100.000đ",
+      "url": "./images/product-19.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 20,
+      "title": "Leather shoes",
+      "price": "3.100.000đ",
+      "url": "./images/product-20.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 21,
+      "title": "Laptop Gaming",
+      "price": "3.100.000đ",
+      "url": "./images/product-21.png",
+      "category": "Accessories"
+    }
+  ]
+}
