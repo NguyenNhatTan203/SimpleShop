@@ -27,12 +27,17 @@ This project requires the following dependencies:
 git clone https://github.com/NguyenNhatTan203/SimpleShop
 Navigate to the project directory
 
-
->cd SimpleShop
+```
+cd SimpleShop
+```
 Install the dependencies
-
->npm install
-
+```
+npm install
+```
 
 Run the project with:
->npm start
+```
+npm start
+```
+----
+Thankyou
